@@ -17,28 +17,28 @@ import { BiChevronUp } from "react-icons/bi";
         id : 1,
         h1 : "#1 HOSPITAL IN NIGERIA FOR PATIENT CARE & SAFETY",
         p : "NMA. and National daily has named AncorMed the Best Hospital in Nigeria for 10 years in a row.",
-        img : "./src/assets/images/Frame 30.jpg",
+        img : `${Frame1}`,
         buttext :"Learn More"
     },
     {   
         id : 2,
         h1 : "OFFERING THE FULL SPECTRUM OF QUALITY CARE",
         p : " We treat everything from complex brain tumors, cancer, heart, disease and organ failure.......",
-        img : "./src/assets/images/Frame 31.jpg",
+        img : `${Frame2}`,
         buttext :"Explore Our Services "
     },
     {   
         id : 3,
         h1 : "LEADING CARE WHEREVER YOU NEED US",
         p : " Whether you need primary, specialty, emergency or hospital care, AncorMed Health expertise is conveniently located whenever you may need care",
-        img : "./src/assets/images/Frame 32.jpg",
+        img : `${Frame3}`,
         buttext :"Find Us On The Map"
     },
     {   
         id : 4,
         h1 : "THE DIFFERENCE BETWEEN PRACTISING MEDICINE AND LEADIING IT",
         p : "AncorMed comprises a leading academic medical center in the MidBelt region of the Nation.",
-        img : "./src/assets/images/Frame 33.jpg",
+        img : `${Frame4}`,
         buttext :"Learn More"
     },
 ]
